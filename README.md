@@ -38,7 +38,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -58,7 +58,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Jobs Lite <a name="about-project"></a>
 
-> This is a job listing and application website, it serves to help job seekers and employers connect with the best opportunities and talents respectively. Built with PHP, Laravel, JavaScript and Taillwind CSS
+> This is a job listing and job application website, it serves to help job seekers and employers connect with the best opportunities and talents respectively. Built with PHP, Laravel, JavaScript and Taillwind CSS
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -95,8 +95,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Job Listing**
 - **Job Searching**
 
@@ -104,13 +102,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Not available.
 
-- [Live Demo Link]()
+- [Live Demo Link]() -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
@@ -149,7 +147,7 @@ Install this project with:
 
 ```sh
   cd jobs-listing
-  composer install
+  composer update
 ```
 
 ### Usage
@@ -190,7 +188,7 @@ Example:
 
 > Project contributors
 
-👤 **Author1**
+👤 **Felix Ouma**
 
 - GitHub: [@Felix45](https://github.com/Felix45)
 - Twitter: [@Felix_Atonoh](https://twitter.com/Felix_Atonoh)
@@ -223,7 +221,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project...
+> If you like this project please give it a star, I'll highly appreciate
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -231,14 +229,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
+> I would like to thank Taylor Otwell for giving us this wonderful PHP framework
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,7 +238,5 @@ Feel free to check the [issues page](../../issues/).
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
